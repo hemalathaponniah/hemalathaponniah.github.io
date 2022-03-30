@@ -1,0 +1,27 @@
+{
+  "name": "techylist",
+  "version": "1.0.0",
+  "description": "Todo List App",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemalathaponniah/TechyList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemalathaponniah/TechyList/issues"
+  },
+  "homepage": "https://github.com/hemalathaponniah/TechyList#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}
